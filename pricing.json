@@ -4,12 +4,9 @@
   "currency": "USD",
   "tier": "Tier 1",
   "type": "skill-pack",
-  "description": "Full Feishu document automation: read, write, create, and manage documents",
   "target_audience": [
     "Feishu users",
     "enterprise teams",
     "content managers"
-  ],
-  "estimated_monthly_sales": "15-30 units",
-  "competitor_products": []
+  ]
 }
