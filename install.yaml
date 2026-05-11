@@ -1,11 +1,7 @@
-# OpenClaw Feishu Document Skill Installation
-# Add to your openclaw.json
-
 channels:
   feishu:
     tools:
       doc: true
-
 plugins:
   entries:
     feishu:
